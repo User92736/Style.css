@@ -1381,16 +1381,6 @@ input:focus {
     color: white;
 }
 
-button:disabled {
-    background-color: #b8b8b8;
-    cursor: not-allowed;
-}
-
-button:hover:disabled {
-    background-color: #a3a3a3;
-    cursor: not-allowed;
-}
-
 button {
     background-color: #ff0000e6;
     color: white;
