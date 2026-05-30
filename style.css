@@ -1397,6 +1397,16 @@ button:hover {
     background-color: #f00000e6;
 }
 
+button:disabled {
+   background:color: #b8b8b8;
+   cursor: not-allowed;
+}
+
+button:hover:disabled {
+   background-color: #a3a3a3;
+   cursor: not-allowed;
+}
+
 .card {
     background-color: #1a2336;
     padding: 16px;
